@@ -110,7 +110,7 @@ jupyter notebook
 
 # Or run Python scripts directly
 python src/data_processing.py
-
+```
 
 ## Dataset Information
 
@@ -189,6 +189,7 @@ The project includes various statistical visualizations:
 
 ## Requirements
 
+```
 numpy>=1.21.0
 pandas>=1.3.0
 matplotlib>=3.4.0
@@ -197,13 +198,13 @@ scipy>=1.7.0
 statsmodels>=0.13.0
 jupyter>=1.0.0
 scikit-learn>=0.24.0
-
+```
 
 ## Author
 
 **Kavya**
 - GitHub: [@kavya6170](https://github.com/kavya6170)
-- LinkedIn: [Add your LinkedIn profile]
+- LinkedIn: www.linkedin.com/in/kavya-chougule-0aa09124a
 - Institution: CDAC (Centre for Development of Advanced Computing)
 - Program: PG-DBDA (Postgraduate Diploma in Big Data Analytics)
 
@@ -219,4 +220,5 @@ scikit-learn>=0.24.0
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
+
 ```
